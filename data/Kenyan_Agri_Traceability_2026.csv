@@ -1,0 +1,139 @@
+batch_id,product_name,actor_role,location,scan_timestamp,digital_signature
+BAT-1000,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-04 00:00:00,SIG-LEGIT-001
+BAT-1000,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-05 00:00:00,SIG-LEGIT-002
+BAT-1000,Certified Maize Seeds,Retailer,Nakuru Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1001,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1001,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-10 01:00:00,SIG-LEGIT-003
+BAT-1002,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1002,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1002,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-12 00:00:00,SIG-LEGIT-003
+BAT-1003,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-02 00:00:00,SIG-LEGIT-001
+BAT-1003,NPK Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1003,NPK Fertilizer,Retailer,Kisumu Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1004,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-05 00:00:00,SIG-LEGIT-001
+BAT-1004,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-07 00:00:00,SIG-LEGIT-002
+BAT-1004,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-08 00:00:00,SIG-LEGIT-003
+BAT-1005,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1005,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-09 01:00:00,SIG-LEGIT-003
+BAT-1006,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1006,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-10 01:00:00,SIG-LEGIT-003
+BAT-1007,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1007,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-05 00:00:00,SIG-LEGIT-002
+BAT-1007,DAP Fertilizer,Retailer,Nakuru Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1008,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1008,NPK Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1008,NPK Fertilizer,Retailer,Kitale Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1009,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1009,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-11 00:00:00,SIG-LEGIT-002
+BAT-1009,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-12 00:00:00,SIG-LEGIT-003
+BAT-1010,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-05 00:00:00,SIG-LEGIT-001
+BAT-1010,DAP Fertilizer,Retailer,Kisumu Retail,2026-03-05 01:00:00,SIG-LEGIT-003
+BAT-1011,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1011,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-09 00:00:00,SIG-LEGIT-002
+BAT-1011,Hybrid Tomato Seeds,Retailer,Kitale Retail,2026-03-10 00:00:00,SIG-LEGIT-003
+BAT-1012,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-01 00:00:00,SIG-LEGIT-001
+BAT-1012,DAP Fertilizer,Retailer,Mombasa Retail,2026-03-01 02:00:00,SIG-FAKE-999
+BAT-1012,DAP Fertilizer,Retailer,Eldoret Retail,2026-03-01 02:00:00,SIG-FAKE-888
+BAT-1013,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-06 00:00:00,SIG-LEGIT-001
+BAT-1013,DAP Fertilizer,Retailer,Mombasa Retail,2026-03-06 02:00:00,SIG-FAKE-999
+BAT-1013,DAP Fertilizer,Retailer,Eldoret Retail,2026-03-06 02:00:00,SIG-FAKE-888
+BAT-1014,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-02 00:00:00,SIG-LEGIT-001
+BAT-1014,NPK Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1014,NPK Fertilizer,Retailer,Kisumu Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1015,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1015,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1015,Hybrid Tomato Seeds,Retailer,Nakuru Retail,2026-03-12 00:00:00,SIG-LEGIT-003
+BAT-1016,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-05 00:00:00,SIG-LEGIT-001
+BAT-1016,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-07 00:00:00,SIG-LEGIT-002
+BAT-1016,Hybrid Tomato Seeds,Retailer,Kitale Retail,2026-03-08 00:00:00,SIG-LEGIT-003
+BAT-1017,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1017,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-12 00:00:00,SIG-LEGIT-002
+BAT-1017,Hybrid Tomato Seeds,Retailer,Nakuru Retail,2026-03-13 00:00:00,SIG-LEGIT-003
+BAT-1018,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-01 00:00:00,SIG-LEGIT-001
+BAT-1018,NPK Fertilizer,Retailer,Kisumu Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1019,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-01 00:00:00,SIG-LEGIT-001
+BAT-1019,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-01 01:00:00,SIG-LEGIT-003
+BAT-1020,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1020,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1020,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1021,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-05 00:00:00,SIG-LEGIT-001
+BAT-1021,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-07 00:00:00,SIG-LEGIT-002
+BAT-1021,Certified Maize Seeds,Retailer,Nakuru Retail,2026-03-09 00:00:00,SIG-LEGIT-003
+BAT-1022,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1022,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-11 00:00:00,SIG-LEGIT-002
+BAT-1022,Certified Maize Seeds,Retailer,Nakuru Retail,2026-03-13 00:00:00,SIG-LEGIT-003
+BAT-1023,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1023,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-08 00:00:00,SIG-LEGIT-002
+BAT-1023,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-10 00:00:00,SIG-LEGIT-003
+BAT-1024,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-06 00:00:00,SIG-LEGIT-001
+BAT-1024,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-07 00:00:00,SIG-LEGIT-002
+BAT-1024,Hybrid Tomato Seeds,Retailer,Kitale Retail,2026-03-08 00:00:00,SIG-LEGIT-003
+BAT-1025,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1025,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-05 00:00:00,SIG-LEGIT-002
+BAT-1025,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1026,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1026,DAP Fertilizer,Retailer,Kisumu Retail,2026-03-07 01:00:00,SIG-LEGIT-003
+BAT-1027,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1027,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-14 00:00:00,SIG-LEGIT-003
+BAT-1028,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1028,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-08 00:00:00,SIG-LEGIT-002
+BAT-1028,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-09 00:00:00,SIG-LEGIT-003
+BAT-1029,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1029,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-08 00:00:00,SIG-LEGIT-002
+BAT-1029,Certified Maize Seeds,Retailer,Nakuru Retail,2026-03-10 00:00:00,SIG-LEGIT-003
+BAT-1030,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1030,NPK Fertilizer,Retailer,Mombasa Retail,2026-03-07 02:00:00,SIG-FAKE-999
+BAT-1030,NPK Fertilizer,Retailer,Eldoret Retail,2026-03-07 02:00:00,SIG-FAKE-888
+BAT-1031,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-02 00:00:00,SIG-LEGIT-001
+BAT-1031,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1031,Hybrid Tomato Seeds,Retailer,Nakuru Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1032,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-04 00:00:00,SIG-LEGIT-001
+BAT-1032,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-05 00:00:00,SIG-LEGIT-002
+BAT-1032,DAP Fertilizer,Retailer,Kisumu Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1033,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1033,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1033,Hybrid Tomato Seeds,Retailer,Nakuru Retail,2026-03-11 00:00:00,SIG-LEGIT-003
+BAT-1034,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1034,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1034,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-11 00:00:00,SIG-LEGIT-003
+BAT-1035,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1035,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1035,DAP Fertilizer,Retailer,Nakuru Retail,2026-03-11 00:00:00,SIG-LEGIT-003
+BAT-1036,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1036,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-11 00:00:00,SIG-LEGIT-002
+BAT-1036,Certified Maize Seeds,Retailer,Kitale Retail,2026-03-13 00:00:00,SIG-LEGIT-003
+BAT-1037,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1037,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-09 00:00:00,SIG-LEGIT-002
+BAT-1037,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-10 00:00:00,SIG-LEGIT-003
+BAT-1038,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-04 00:00:00,SIG-LEGIT-001
+BAT-1038,DAP Fertilizer,Retailer,Kisumu Retail,2026-03-04 01:00:00,SIG-LEGIT-003
+BAT-1039,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1039,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1039,DAP Fertilizer,Retailer,Nakuru Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1040,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-02 00:00:00,SIG-LEGIT-001
+BAT-1040,NPK Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1040,NPK Fertilizer,Retailer,Kitale Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1041,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-01 00:00:00,SIG-LEGIT-001
+BAT-1041,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-03 00:00:00,SIG-LEGIT-002
+BAT-1041,Hybrid Tomato Seeds,Retailer,Kisumu Retail,2026-03-04 00:00:00,SIG-LEGIT-003
+BAT-1042,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-10 00:00:00,SIG-LEGIT-001
+BAT-1042,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-12 00:00:00,SIG-LEGIT-002
+BAT-1042,Hybrid Tomato Seeds,Retailer,Kitale Retail,2026-03-14 00:00:00,SIG-LEGIT-003
+BAT-1043,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1043,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-08 01:00:00,SIG-LEGIT-003
+BAT-1044,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-08 00:00:00,SIG-LEGIT-001
+BAT-1044,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-10 00:00:00,SIG-LEGIT-002
+BAT-1044,DAP Fertilizer,Retailer,Kisumu Retail,2026-03-12 00:00:00,SIG-LEGIT-003
+BAT-1045,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-01 00:00:00,SIG-LEGIT-001
+BAT-1045,Certified Maize Seeds,Retailer,Kisumu Retail,2026-03-01 01:00:00,SIG-LEGIT-003
+BAT-1046,DAP Fertilizer,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1046,DAP Fertilizer,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1046,DAP Fertilizer,Retailer,Kitale Retail,2026-03-06 00:00:00,SIG-LEGIT-003
+BAT-1047,Certified Maize Seeds,Manufacturer,Mombasa Port,2026-03-03 00:00:00,SIG-LEGIT-001
+BAT-1047,Certified Maize Seeds,Distributor,Nairobi Warehouse,2026-03-04 00:00:00,SIG-LEGIT-002
+BAT-1047,Certified Maize Seeds,Retailer,Nakuru Retail,2026-03-05 00:00:00,SIG-LEGIT-003
+BAT-1048,Hybrid Tomato Seeds,Manufacturer,Mombasa Port,2026-03-07 00:00:00,SIG-LEGIT-001
+BAT-1048,Hybrid Tomato Seeds,Distributor,Nairobi Warehouse,2026-03-08 00:00:00,SIG-LEGIT-002
+BAT-1048,Hybrid Tomato Seeds,Retailer,Kitale Retail,2026-03-10 00:00:00,SIG-LEGIT-003
+BAT-1049,NPK Fertilizer,Manufacturer,Mombasa Port,2026-03-09 00:00:00,SIG-LEGIT-001
+BAT-1049,NPK Fertilizer,Retailer,Kisumu Retail,2026-03-09 01:00:00,SIG-LEGIT-003
